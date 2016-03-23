@@ -26,6 +26,8 @@ public class Location {
         
     }
     
+    
+    
     public int getNumCustomers()
     {
         return this.numCustomers;
