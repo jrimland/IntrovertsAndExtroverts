@@ -13,10 +13,12 @@ public class Location {
     private int xPos;
     private int yPos;
     private int numCustomers;
+    
+    public volatile float delegate;
 
     public void incrementCustomers()
     {
-        
+        delegate = .666f;
     }
 
     public void decrementCustomers()
