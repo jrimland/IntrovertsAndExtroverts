@@ -38,12 +38,12 @@ public class SimulationEngine {
     
     public void startSim()
     {
-        System.out.println("Simulation started!");
+        System.out.println("Si-moo-lation has begun!");
     }
     
     public void stopSim()
     {
-        System.out.println("Simulation stopped!");
+        System.out.println("Si-moo-lation has ended!");
     }
         
     
