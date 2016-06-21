@@ -11,7 +11,7 @@ package gameplay;
  */
 public class IntrovertsAndExtroverts {
     public static void main(String[] args) {
-        SimulationEngine sim = new SimulationEngine();
-        sim.addCustomer();
+        SimulationEngine simulation = new SimulationEngine();
+        simulation.addCustomer();
     } 
 }
