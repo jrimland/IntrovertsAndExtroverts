@@ -10,6 +10,7 @@ import java.awt.Rectangle;
 public abstract class Customer extends Rectangle {
     public Customer()
     {
-        
-    }            
+       String FirstName = "Vince";
+       String LastName = "Maimone";
+    }   
 }
