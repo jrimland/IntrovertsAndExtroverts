@@ -4,10 +4,11 @@ package entities;
  *
  * @author jrimland
  */
-public class Introvert extends Customer {
+public class Introvert extends Customer { 
+    public String stuff;  
     public Introvert()
     {
-        
+       
     }
     
     public boolean needToMove(int numNeighbors)
