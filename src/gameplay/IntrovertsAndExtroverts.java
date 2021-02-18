@@ -14,4 +14,8 @@ public class IntrovertsAndExtroverts {
         SimulationEngine sim = new SimulationEngine();
         sim.addCustomer();
     } 
+    
+    public static void mergeSort(){
+        //empty
+    }
 }
