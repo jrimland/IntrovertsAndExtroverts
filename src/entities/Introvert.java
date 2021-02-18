@@ -9,6 +9,9 @@ public class Introvert extends Customer {
     {
         
     }
+    public void socialAnxiety(){
+    boolean wantsToGoHome = true;
+}
     
     public boolean needToMove(int numNeighbors)
     {
